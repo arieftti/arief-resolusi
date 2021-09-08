@@ -3,6 +3,8 @@ Rencana Konten Arieftti
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Angular
+    ^ React
 - Struktur Fundamental
 - php frameworks
 - interview
