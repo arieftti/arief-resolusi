@@ -1,6 +1,8 @@
 Rencana Konten Arieftti
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - php frameworks
 - interview
 - vlog
