@@ -3,7 +3,10 @@ Rencana Konten Arieftti
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur Fundamental
 - php frameworks
+  ^ Laravel
 - interview
 - vlog
+- Phyton
