@@ -5,7 +5,7 @@ Rencana Konten Arieftti
   * Framework Javascript
     ^ Angular
     ^ React
-- Struktur Fundamental
 - php frameworks
+  ^ Laravel
 - interview
 - vlog
