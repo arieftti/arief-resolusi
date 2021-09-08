@@ -3,9 +3,11 @@ Rencana Konten Arieftti
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
-    ^ React
+    ^ Vue
+    ^ Reac
+- Struktur Fundamental
 - php frameworks
   ^ Laravel
 - interview
 - vlog
+- Phyton
